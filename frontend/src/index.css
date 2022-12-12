@@ -46,3 +46,75 @@ a, a:hover {
 input, button {
   color: black;
 }
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+#root {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: black;
+}
+#root {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+canvas {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+body {
+  background-color: black;
+}
+
+/**/
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+#root {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: black;
+}
+#root {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+canvas {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+body {
+  background-color: black;
+}

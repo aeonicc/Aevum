@@ -1,6 +1,6 @@
 # Sentiment Analysis on iPhone reviews from youtube
 # Learning: youtube_dl, sentiment classification feature
-# https://youtu.be/e-kSGNzu0hM
+# https://www.youtube.com/watch?v=TKDBBy1iJwM
 import youtube_dl
 from youtube_dl.utils import DownloadError
 

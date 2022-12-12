@@ -9,7 +9,25 @@
     "react-dom": "^16.10.2",
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^5.0.1",
+
+       "butterchurn": "2.6.7",
+    "butterchurn-presets": "2.4.7",
+    "ffmpeg": "0.0.4",
+    "ffprobe": "1.1.2",
+    "gulp": "4.0.2",
+    "horizon-youtube-mp3": "1.9.2",
+    "node-url-utils": "0.4.0",
+
+    "react-three-fiber": "4.2.21",
+    "readable-stream": "3.6.0",
+    "soundcloud-api-client": "0.0.9",
+    "soundcloud-audio": "1.4.0",
+    "soundcloud-downloader": "0.1.6",
+    "stream-browserify": "3.0.0",
+    "styled-components": "5.2.0",
+    "three": "0.120.1",
+    "youtube-audio-stream": "0.3.6"
   },
   "scripts": {
     "start": "react-scripts start",
