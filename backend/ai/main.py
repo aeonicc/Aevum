@@ -15,7 +15,7 @@ def save_video_sentiments(url):
 if __name__ == "__main__":
     # save_video_sentiments("https://youtu.be/e-kSGNzu0hM")
 
-    with open("data/iPhone_13_Review:_Pros_and_Cons_sentiments.json", "r") as f:
+    with open("data/pn.json", "r") as f:
         data = json.load(f)
 
     positives = []

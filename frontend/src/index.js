@@ -7,7 +7,7 @@ import App from './components/App';
 import Blockchain from './components/Blockchain';
 import ConductTransaction from './components/ConductTransaction';
 import TransactionPool from './components/TransactionPool';
-import Visualizer from "./components/visualizer";
+
 
 
 ReactDOM.render(
