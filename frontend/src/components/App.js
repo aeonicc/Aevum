@@ -4,13 +4,7 @@ import { Link } from 'react-router-dom';
 import logo from '../assets/logo.png';
 import { API_BASE_URL } from '../config';
 
-import * as THREE from 'three'
 
-import { Canvas, useFrame } from '@react-three/fiber'
-import { Environment, useGLTF, ContactShadows } from '@react-three/drei'
-import { useSpring } from '@react-spring/core'
-import { a as three } from '@react-spring/three'
-import { a as web } from '@react-spring/web'
 
 
 function App() {
